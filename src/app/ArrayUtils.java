@@ -11,6 +11,8 @@ public class ArrayUtils {
     }
 
     public void binarySearch(int[] array, int target) {
+         new PrintResult().printResultBinarySearch(array, target);
 
     }
+
 }
